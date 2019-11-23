@@ -1,0 +1,574 @@
+# MTL
+
+newmtl Layer_2_mtl
+	map_Kd 3D MP KENYA_Layer_2.png
+
+
+newmtl Cube.011_Cube.012_mtl
+	map_Kd 3D MP KENYA_Cube.011_Cube.012.png
+
+
+newmtl Icosphere.047_Icosphere.049_mtl
+	map_Kd 3D MP KENYA_Icosphere.047_Icosphere.049.png
+
+
+newmtl Icosphere.046_Icosphere.048_mtl
+	map_Kd 3D MP KENYA_Icosphere.046_Icosphere.048.png
+
+
+newmtl Icosphere.045_Icosphere.047_mtl
+	map_Kd 3D MP KENYA_Icosphere.045_Icosphere.047.png
+
+
+newmtl Icosphere.044_Icosphere.046_mtl
+	map_Kd 3D MP KENYA_Icosphere.044_Icosphere.046.png
+
+
+newmtl Icosphere.043_Icosphere.045_mtl
+	map_Kd 3D MP KENYA_Icosphere.043_Icosphere.045.png
+
+
+newmtl Icosphere.042_Icosphere.044_mtl
+	map_Kd 3D MP KENYA_Icosphere.042_Icosphere.044.png
+
+
+newmtl Icosphere.041_Icosphere.043_mtl
+	map_Kd 3D MP KENYA_Icosphere.041_Icosphere.043.png
+
+
+newmtl Icosphere.040_Icosphere.042_mtl
+	map_Kd 3D MP KENYA_Icosphere.040_Icosphere.042.png
+
+
+newmtl Cube.010_Cube.011_mtl
+	map_Kd 3D MP KENYA_Cube.010_Cube.011.png
+
+
+newmtl Cube.009_Cube.010_mtl
+	map_Kd 3D MP KENYA_Cube.009_Cube.010.png
+
+
+newmtl Icosphere.039_Icosphere.041_mtl
+	map_Kd 3D MP KENYA_Icosphere.039_Icosphere.041.png
+
+
+newmtl Icosphere.038_Icosphere.040_mtl
+	map_Kd 3D MP KENYA_Icosphere.038_Icosphere.040.png
+
+
+newmtl Icosphere.037_Icosphere.039_mtl
+	map_Kd 3D MP KENYA_Icosphere.037_Icosphere.039.png
+
+
+newmtl Icosphere.036_Icosphere.038_mtl
+	map_Kd 3D MP KENYA_Icosphere.036_Icosphere.038.png
+
+
+newmtl Icosphere.035_Icosphere.037_mtl
+	map_Kd 3D MP KENYA_Icosphere.035_Icosphere.037.png
+
+
+newmtl Icosphere.034_Icosphere.036_mtl
+	map_Kd 3D MP KENYA_Icosphere.034_Icosphere.036.png
+
+
+newmtl Icosphere.033_Icosphere.035_mtl
+	map_Kd 3D MP KENYA_Icosphere.033_Icosphere.035.png
+
+
+newmtl Icosphere.032_Icosphere.034_mtl
+	map_Kd 3D MP KENYA_Icosphere.032_Icosphere.034.png
+
+
+newmtl Cube.008_Cube.009_mtl
+	map_Kd 3D MP KENYA_Cube.008_Cube.009.png
+
+
+newmtl Cube.007_Cube.008_mtl
+	map_Kd 3D MP KENYA_Cube.007_Cube.008.png
+
+
+newmtl Icosphere.031_Icosphere.033_mtl
+	map_Kd 3D MP KENYA_Icosphere.031_Icosphere.033.png
+
+
+newmtl Icosphere.030_Icosphere.032_mtl
+	map_Kd 3D MP KENYA_Icosphere.030_Icosphere.032.png
+
+
+newmtl Icosphere.029_Icosphere.031_mtl
+	map_Kd 3D MP KENYA_Icosphere.029_Icosphere.031.png
+
+
+newmtl Icosphere.028_Icosphere.030_mtl
+	map_Kd 3D MP KENYA_Icosphere.028_Icosphere.030.png
+
+
+newmtl Icosphere.027_Icosphere.029_mtl
+	map_Kd 3D MP KENYA_Icosphere.027_Icosphere.029.png
+
+
+newmtl Icosphere.026_Icosphere.028_mtl
+	map_Kd 3D MP KENYA_Icosphere.026_Icosphere.028.png
+
+
+newmtl Icosphere.025_Icosphere.027_mtl
+	map_Kd 3D MP KENYA_Icosphere.025_Icosphere.027.png
+
+
+newmtl Icosphere.024_Icosphere.026_mtl
+	map_Kd 3D MP KENYA_Icosphere.024_Icosphere.026.png
+
+
+newmtl Cube.006_Cube.007_mtl
+	map_Kd 3D MP KENYA_Cube.006_Cube.007.png
+
+
+newmtl Cube.005_Cube.006_mtl
+	map_Kd 3D MP KENYA_Cube.005_Cube.006.png
+
+
+newmtl Icosphere.023_Icosphere.025_mtl
+	map_Kd 3D MP KENYA_Icosphere.023_Icosphere.025.png
+
+
+newmtl Icosphere.022_Icosphere.024_mtl
+	map_Kd 3D MP KENYA_Icosphere.022_Icosphere.024.png
+
+
+newmtl Icosphere.021_Icosphere.023_mtl
+	map_Kd 3D MP KENYA_Icosphere.021_Icosphere.023.png
+
+
+newmtl Icosphere.020_Icosphere.022_mtl
+	map_Kd 3D MP KENYA_Icosphere.020_Icosphere.022.png
+
+
+newmtl Icosphere.019_Icosphere.021_mtl
+	map_Kd 3D MP KENYA_Icosphere.019_Icosphere.021.png
+
+
+newmtl Icosphere.018_Icosphere.020_mtl
+	map_Kd 3D MP KENYA_Icosphere.018_Icosphere.020.png
+
+
+newmtl Icosphere.017_Icosphere.019_mtl
+	map_Kd 3D MP KENYA_Icosphere.017_Icosphere.019.png
+
+
+newmtl Icosphere.016_Icosphere.018_mtl
+	map_Kd 3D MP KENYA_Icosphere.016_Icosphere.018.png
+
+
+newmtl Cube.004_Cube.005_mtl
+	map_Kd 3D MP KENYA_Cube.004_Cube.005.png
+
+
+newmtl Cube.003_Cube.004_mtl
+	map_Kd 3D MP KENYA_Cube.003_Cube.004.png
+
+
+newmtl Icosphere.015_Icosphere.017_mtl
+	map_Kd 3D MP KENYA_Icosphere.015_Icosphere.017.png
+
+
+newmtl Icosphere.014_Icosphere.016_mtl
+	map_Kd 3D MP KENYA_Icosphere.014_Icosphere.016.png
+
+
+newmtl Icosphere.013_Icosphere.015_mtl
+	map_Kd 3D MP KENYA_Icosphere.013_Icosphere.015.png
+
+
+newmtl Icosphere.012_Icosphere.014_mtl
+	map_Kd 3D MP KENYA_Icosphere.012_Icosphere.014.png
+
+
+newmtl Icosphere.011_Icosphere.013_mtl
+	map_Kd 3D MP KENYA_Icosphere.011_Icosphere.013.png
+
+
+newmtl Icosphere.010_Icosphere.012_mtl
+	map_Kd 3D MP KENYA_Icosphere.010_Icosphere.012.png
+
+
+newmtl Icosphere.009_Icosphere.011_mtl
+	map_Kd 3D MP KENYA_Icosphere.009_Icosphere.011.png
+
+
+newmtl Icosphere.008_Icosphere.010_mtl
+	map_Kd 3D MP KENYA_Icosphere.008_Icosphere.010.png
+
+
+newmtl Cube.002_Cube.003_mtl
+	map_Kd 3D MP KENYA_Cube.002_Cube.003.png
+
+
+newmtl Cube.001_Cube.002_mtl
+	map_Kd 3D MP KENYA_Cube.001_Cube.002.png
+
+
+newmtl Icosphere.007_Icosphere.009_mtl
+	map_Kd 3D MP KENYA_Icosphere.007_Icosphere.009.png
+
+
+newmtl Icosphere.006_Icosphere.008_mtl
+	map_Kd 3D MP KENYA_Icosphere.006_Icosphere.008.png
+
+
+newmtl Icosphere.005_Icosphere.007_mtl
+	map_Kd 3D MP KENYA_Icosphere.005_Icosphere.007.png
+
+
+newmtl Icosphere.004_Icosphere.006_mtl
+	map_Kd 3D MP KENYA_Icosphere.004_Icosphere.006.png
+
+
+newmtl Icosphere.003_Icosphere.005_mtl
+	map_Kd 3D MP KENYA_Icosphere.003_Icosphere.005.png
+
+
+newmtl Icosphere.002_Icosphere.004_mtl
+	map_Kd 3D MP KENYA_Icosphere.002_Icosphere.004.png
+
+
+newmtl Icosphere.001_Icosphere.003_mtl
+	map_Kd 3D MP KENYA_Icosphere.001_Icosphere.003.png
+
+
+newmtl Icosphere_Icosphere.002_mtl
+	map_Kd 3D MP KENYA_Icosphere_Icosphere.002.png
+
+
+newmtl Cube_Cube.001_mtl
+	map_Kd 3D MP KENYA_Cube_Cube.001.png
+
+
+newmtl Layer_3_mtl
+	map_Kd 3D MP KENYA_Layer_3.png
+
+
+newmtl Layer_3_mtl
+	map_Kd 3D MP KENYA_Layer_3.png
+
+
+newmtl Icosphere.024_Icosphere.026_mtl
+	map_Kd 3D MP KENYA_Icosphere.024_Icosphere.026.png
+
+
+newmtl Cube.006_Cube.007_mtl
+	map_Kd 3D MP KENYA_Cube.006_Cube.007.png
+
+
+newmtl Cube.005_Cube.006_mtl
+	map_Kd 3D MP KENYA_Cube.005_Cube.006.png
+
+
+newmtl Icosphere.023_Icosphere.025_mtl
+	map_Kd 3D MP KENYA_Icosphere.023_Icosphere.025.png
+
+
+newmtl Icosphere.022_Icosphere.024_mtl
+	map_Kd 3D MP KENYA_Icosphere.022_Icosphere.024.png
+
+
+newmtl Icosphere.021_Icosphere.023_mtl
+	map_Kd 3D MP KENYA_Icosphere.021_Icosphere.023.png
+
+
+newmtl Icosphere.020_Icosphere.022_mtl
+	map_Kd 3D MP KENYA_Icosphere.020_Icosphere.022.png
+
+
+newmtl Icosphere.019_Icosphere.021_mtl
+	map_Kd 3D MP KENYA_Icosphere.019_Icosphere.021.png
+
+
+newmtl Icosphere.018_Icosphere.020_mtl
+	map_Kd 3D MP KENYA_Icosphere.018_Icosphere.020.png
+
+
+newmtl Icosphere.017_Icosphere.019_mtl
+	map_Kd 3D MP KENYA_Icosphere.017_Icosphere.019.png
+
+
+newmtl Icosphere.016_Icosphere.018_mtl
+	map_Kd 3D MP KENYA_Icosphere.016_Icosphere.018.png
+
+
+newmtl Cube.004_Cube.005_mtl
+	map_Kd 3D MP KENYA_Cube.004_Cube.005.png
+
+
+newmtl Cube.003_Cube.004_mtl
+	map_Kd 3D MP KENYA_Cube.003_Cube.004.png
+
+
+newmtl Icosphere.015_Icosphere.017_mtl
+	map_Kd 3D MP KENYA_Icosphere.015_Icosphere.017.png
+
+
+newmtl Icosphere.014_Icosphere.016_mtl
+	map_Kd 3D MP KENYA_Icosphere.014_Icosphere.016.png
+
+
+newmtl Icosphere.013_Icosphere.015_mtl
+	map_Kd 3D MP KENYA_Icosphere.013_Icosphere.015.png
+
+
+newmtl Icosphere.012_Icosphere.014_mtl
+	map_Kd 3D MP KENYA_Icosphere.012_Icosphere.014.png
+
+
+newmtl Icosphere.011_Icosphere.013_mtl
+	map_Kd 3D MP KENYA_Icosphere.011_Icosphere.013.png
+
+
+newmtl Icosphere.010_Icosphere.012_mtl
+	map_Kd 3D MP KENYA_Icosphere.010_Icosphere.012.png
+
+
+newmtl Icosphere.009_Icosphere.011_mtl
+	map_Kd 3D MP KENYA_Icosphere.009_Icosphere.011.png
+
+
+newmtl Icosphere.008_Icosphere.010_mtl
+	map_Kd 3D MP KENYA_Icosphere.008_Icosphere.010.png
+
+
+newmtl Icosphere.001_Icosphere.003_mtl
+	map_Kd 3D MP KENYA_Icosphere.001_Icosphere.003.png
+
+
+newmtl Icosphere_Icosphere.002_mtl
+	map_Kd 3D MP KENYA_Icosphere_Icosphere.002.png
+
+
+newmtl Cube_Cube.001_mtl
+	map_Kd 3D MP KENYA_Cube_Cube.001.png
+
+
+newmtl Icosphere.002_Icosphere.004_mtl
+	map_Kd 3D MP KENYA_Icosphere.002_Icosphere.004.png
+
+
+newmtl Icosphere.003_Icosphere.005_mtl
+	map_Kd 3D MP KENYA_Icosphere.003_Icosphere.005.png
+
+
+newmtl Icosphere.004_Icosphere.006_mtl
+	map_Kd 3D MP KENYA_Icosphere.004_Icosphere.006.png
+
+
+newmtl Icosphere.005_Icosphere.007_mtl
+	map_Kd 3D MP KENYA_Icosphere.005_Icosphere.007.png
+
+
+newmtl Icosphere.006_Icosphere.008_mtl
+	map_Kd 3D MP KENYA_Icosphere.006_Icosphere.008.png
+
+
+newmtl Icosphere.007_Icosphere.009_mtl
+	map_Kd 3D MP KENYA_Icosphere.007_Icosphere.009.png
+
+
+newmtl Cube.001_Cube.002_mtl
+	map_Kd 3D MP KENYA_Cube.001_Cube.002.png
+
+
+newmtl Cube.002_Cube.003_mtl
+	map_Kd 3D MP KENYA_Cube.002_Cube.003.png
+
+
+newmtl Icosphere.025_Icosphere.027_mtl
+	map_Kd 3D MP KENYA_Icosphere.025_Icosphere.027.png
+
+
+newmtl Icosphere.026_Icosphere.028_mtl
+	map_Kd 3D MP KENYA_Icosphere.026_Icosphere.028.png
+
+
+newmtl Icosphere.027_Icosphere.029_mtl
+	map_Kd 3D MP KENYA_Icosphere.027_Icosphere.029.png
+
+
+newmtl Icosphere.028_Icosphere.030_mtl
+	map_Kd 3D MP KENYA_Icosphere.028_Icosphere.030.png
+
+
+newmtl Icosphere.029_Icosphere.031_mtl
+	map_Kd 3D MP KENYA_Icosphere.029_Icosphere.031.png
+
+
+newmtl Icosphere.030_Icosphere.032_mtl
+	map_Kd 3D MP KENYA_Icosphere.030_Icosphere.032.png
+
+
+newmtl Icosphere.031_Icosphere.033_mtl
+	map_Kd 3D MP KENYA_Icosphere.031_Icosphere.033.png
+
+
+newmtl Cube.007_Cube.008_mtl
+	map_Kd 3D MP KENYA_Cube.007_Cube.008.png
+
+
+newmtl Cube.008_Cube.009_mtl
+	map_Kd 3D MP KENYA_Cube.008_Cube.009.png
+
+
+newmtl Icosphere.032_Icosphere.034_mtl
+	map_Kd 3D MP KENYA_Icosphere.032_Icosphere.034.png
+
+
+newmtl Icosphere.033_Icosphere.035_mtl
+	map_Kd 3D MP KENYA_Icosphere.033_Icosphere.035.png
+
+
+newmtl Icosphere.034_Icosphere.036_mtl
+	map_Kd 3D MP KENYA_Icosphere.034_Icosphere.036.png
+
+
+newmtl Icosphere.035_Icosphere.037_mtl
+	map_Kd 3D MP KENYA_Icosphere.035_Icosphere.037.png
+
+
+newmtl Icosphere.036_Icosphere.038_mtl
+	map_Kd 3D MP KENYA_Icosphere.036_Icosphere.038.png
+
+
+newmtl Icosphere.037_Icosphere.039_mtl
+	map_Kd 3D MP KENYA_Icosphere.037_Icosphere.039.png
+
+
+newmtl Icosphere.038_Icosphere.040_mtl
+	map_Kd 3D MP KENYA_Icosphere.038_Icosphere.040.png
+
+
+newmtl Icosphere.039_Icosphere.041_mtl
+	map_Kd 3D MP KENYA_Icosphere.039_Icosphere.041.png
+
+
+newmtl Cube.009_Cube.010_mtl
+	map_Kd 3D MP KENYA_Cube.009_Cube.010.png
+
+
+newmtl Cube.010_Cube.011_mtl
+	map_Kd 3D MP KENYA_Cube.010_Cube.011.png
+
+
+newmtl Icosphere.040_Icosphere.042_mtl
+	map_Kd 3D MP KENYA_Icosphere.040_Icosphere.042.png
+
+
+newmtl Icosphere.041_Icosphere.043_mtl
+	map_Kd 3D MP KENYA_Icosphere.041_Icosphere.043.png
+
+
+newmtl Icosphere.042_Icosphere.044_mtl
+	map_Kd 3D MP KENYA_Icosphere.042_Icosphere.044.png
+
+
+newmtl Icosphere.043_Icosphere.045_mtl
+	map_Kd 3D MP KENYA_Icosphere.043_Icosphere.045.png
+
+
+newmtl Icosphere.044_Icosphere.046_mtl
+	map_Kd 3D MP KENYA_Icosphere.044_Icosphere.046.png
+
+
+newmtl Icosphere.045_Icosphere.047_mtl
+	map_Kd 3D MP KENYA_Icosphere.045_Icosphere.047.png
+
+
+newmtl Icosphere.046_Icosphere.048_mtl
+	map_Kd 3D MP KENYA_Icosphere.046_Icosphere.048.png
+
+
+newmtl Icosphere.047_Icosphere.049_mtl
+	map_Kd 3D MP KENYA_Icosphere.047_Icosphere.049.png
+
+
+newmtl Cube.011_Cube.012_mtl
+	map_Kd 3D MP KENYA_Cube.011_Cube.012.png
+
+
+newmtl Layer_4_mtl
+	map_Kd 3D MP KENYA_Layer_4.png
+
+
+newmtl tinker_1_mtl
+	map_Kd 3D MP KENYA_tinker_1.png
+
+
+newmtl group_0_14093196_mtl
+	map_Kd 3D MP KENYA_group_0_14093196.png
+
+
+newmtl North_Eastern_1_mtl
+	map_Kd 3D MP KENYA_North_Eastern_1.png
+
+
+newmtl group_0_4634441_mtl
+	map_Kd 3D MP KENYA_group_0_4634441.png
+
+
+newmtl Coast_1_mtl
+	map_Kd 3D MP KENYA_Coast_1.png
+
+
+newmtl Nyanza_1_mtl
+	map_Kd 3D MP KENYA_Nyanza_1.png
+
+
+newmtl tinker_1_mtl
+	map_Kd 3D MP KENYA_tinker_1.png
+
+
+newmtl tinker_1_mtl
+	map_Kd 3D MP KENYA_tinker_1.png
+
+
+newmtl 12219_boat_v2_L2_1_mtl
+	map_Kd 3D MP KENYA_12219_boat_v2_L2_1.png
+
+
+newmtl zeb_body_mtl
+	map_Kd 3D MP KENYA_zeb_body.png
+
+
+newmtl zeb_iris_mtl
+	map_Kd 3D MP KENYA_zeb_iris.png
+
+
+newmtl zeb_eye_mtl
+	map_Kd 3D MP KENYA_zeb_eye.png
+
+
+newmtl ZEBRA_1_mtl
+	map_Kd 3D MP KENYA_ZEBRA_1.png
+
+
+newmtl group_0_13463636_mtl
+	map_Kd 3D MP KENYA_group_0_13463636.png
+
+
+newmtl Relief_mtl
+	map_Kd 3D MP KENYA_Relief.png
+
+
+newmtl mapofkenyar_1_mtl
+	map_Kd 3D MP KENYA_mapofkenyar_1.png
+
+
+newmtl Camel_1_mtl
+	map_Kd 3D MP KENYA_Camel_1.png
+
+
+newmtl 21859_Rainbow_Trout_v1_1_mtl
+	map_Kd 3D MP KENYA_21859_Rainbow_Trout_v1_1.png
+
+
+newmtl 12993_Long_Fin_White_Cloud_v1_l3_1_mtl
+	map_Kd 3D MP KENYA_12993_Long_Fin_White_Cloud_v1_l3_1.png
+
+
